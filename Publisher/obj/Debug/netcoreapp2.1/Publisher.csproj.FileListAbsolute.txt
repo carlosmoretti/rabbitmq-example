@@ -1,0 +1,14 @@
+C:\Users\Moretti\source\repos\RabbitMQExample\Publisher\bin\Debug\netcoreapp2.1\Publisher.deps.json
+C:\Users\Moretti\source\repos\RabbitMQExample\Publisher\bin\Debug\netcoreapp2.1\Publisher.runtimeconfig.json
+C:\Users\Moretti\source\repos\RabbitMQExample\Publisher\bin\Debug\netcoreapp2.1\Publisher.runtimeconfig.dev.json
+C:\Users\Moretti\source\repos\RabbitMQExample\Publisher\bin\Debug\netcoreapp2.1\Publisher.dll
+C:\Users\Moretti\source\repos\RabbitMQExample\Publisher\obj\Debug\netcoreapp2.1\Publisher.csprojAssemblyReference.cache
+C:\Users\Moretti\source\repos\RabbitMQExample\Publisher\obj\Debug\netcoreapp2.1\Publisher.csproj.CoreCompileInputs.cache
+C:\Users\Moretti\source\repos\RabbitMQExample\Publisher\obj\Debug\netcoreapp2.1\Publisher.AssemblyInfoInputs.cache
+C:\Users\Moretti\source\repos\RabbitMQExample\Publisher\obj\Debug\netcoreapp2.1\Publisher.AssemblyInfo.cs
+C:\Users\Moretti\source\repos\RabbitMQExample\Publisher\bin\Debug\netcoreapp2.1\Publisher.pdb
+C:\Users\Moretti\source\repos\RabbitMQExample\Publisher\obj\Debug\netcoreapp2.1\Publisher.dll
+C:\Users\Moretti\source\repos\RabbitMQExample\Publisher\obj\Debug\netcoreapp2.1\Publisher.pdb
+C:\Users\Moretti\source\repos\RabbitMQExample\Publisher\bin\Debug\netcoreapp2.1\Entities.dll
+C:\Users\Moretti\source\repos\RabbitMQExample\Publisher\bin\Debug\netcoreapp2.1\Entities.pdb
+C:\Users\Moretti\source\repos\RabbitMQExample\Publisher\obj\Debug\netcoreapp2.1\Publisher.csproj.CopyComplete

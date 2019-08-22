@@ -1,0 +1,14 @@
+C:\Users\Moretti\source\repos\RabbitMQExample\Consumer\bin\Debug\netcoreapp2.1\Consumer.deps.json
+C:\Users\Moretti\source\repos\RabbitMQExample\Consumer\bin\Debug\netcoreapp2.1\Consumer.runtimeconfig.json
+C:\Users\Moretti\source\repos\RabbitMQExample\Consumer\bin\Debug\netcoreapp2.1\Consumer.runtimeconfig.dev.json
+C:\Users\Moretti\source\repos\RabbitMQExample\Consumer\bin\Debug\netcoreapp2.1\Consumer.dll
+C:\Users\Moretti\source\repos\RabbitMQExample\Consumer\obj\Debug\netcoreapp2.1\Consumer.csprojAssemblyReference.cache
+C:\Users\Moretti\source\repos\RabbitMQExample\Consumer\obj\Debug\netcoreapp2.1\Consumer.csproj.CoreCompileInputs.cache
+C:\Users\Moretti\source\repos\RabbitMQExample\Consumer\obj\Debug\netcoreapp2.1\Consumer.AssemblyInfoInputs.cache
+C:\Users\Moretti\source\repos\RabbitMQExample\Consumer\obj\Debug\netcoreapp2.1\Consumer.AssemblyInfo.cs
+C:\Users\Moretti\source\repos\RabbitMQExample\Consumer\bin\Debug\netcoreapp2.1\Consumer.pdb
+C:\Users\Moretti\source\repos\RabbitMQExample\Consumer\obj\Debug\netcoreapp2.1\Consumer.dll
+C:\Users\Moretti\source\repos\RabbitMQExample\Consumer\obj\Debug\netcoreapp2.1\Consumer.pdb
+C:\Users\Moretti\source\repos\RabbitMQExample\Consumer\bin\Debug\netcoreapp2.1\Entities.dll
+C:\Users\Moretti\source\repos\RabbitMQExample\Consumer\bin\Debug\netcoreapp2.1\Entities.pdb
+C:\Users\Moretti\source\repos\RabbitMQExample\Consumer\obj\Debug\netcoreapp2.1\Consumer.csproj.CopyComplete
